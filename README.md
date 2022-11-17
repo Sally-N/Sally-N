@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sally</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🌱 I’m also learning Software Engineering at [ALX](ALX)
+- 🌱 I’m learning Software Engineering at [ALX](ALX)
 
 - 📫 Reach me through email **snzungula@gmail.com**
 
