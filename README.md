@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sally</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🔭 I’m currently doing my intership at [HNG](HNG)
-
 - 🌱 I’m also learning Software Engineering at [ALX](ALX)
 
 - 📫 Reach me through email **snzungula@gmail.com**
