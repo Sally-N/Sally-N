@@ -5,7 +5,7 @@
 
 - 📫 Reach me through email **snzungula@gmail.com**
 
-- 📝 Check out my blog: [My Blog](ttps://sallyn.hashnode.dev/)
+- 📝 Check out my blog: [My Blog](https://sallyn.hashnode.dev/)
 
 
 <h3 align="left">Languages and Tools:</h3>
